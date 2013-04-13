@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/menu_reply" 
+        android:title="Reply"
+        android:icon="@drawable/ic_menu_edit"
+        android:showAsAction="always" />
+    
+    <item 
+        android:id="@+id/menu_forward" 
+        android:title="Forward"
+        android:icon="@drawable/ic_menu_share"
+        android:showAsAction="always" />
+
+</menu>
